@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jerome Charles Brendon M. Quintos - Resume</title>
+</head>
+
+<body>
+
+    <h1 align="center">
+        <img src="Rome.png" 
+width="20%" height="20%" align="middle">Jerome Charles Brendon M. Quintos<br clear="all"> 
+
+<h2>Objective:</h2>
+<p>Highly communicative professional seeking for a full-time employment as a virtual assistant. <br>Experienced in handling customer calls, bookings, appointments, and other client requests, as well as in managing relationships with company partners and contractors. <br> Aims to utilize my skills and experiences to provide services proficiently according to the client's requests.</p>
+    
+ <h2>Education:</h2>  
+ 
+
+ <H3>Bachelor in Science, Major in Tourism Management 2016
+    <ul>
+        <li>Centro Escolar University</li>
+    </ul>
+ </H3> 
+ <h3>Secondary Education 2012
+    <ul>
+        <li>Don Bosco Academy</li> 
+    </ul>
+ </h3>
+ <h3>Elementary Education 2008
+    <ul>
+        <li>St.Scholasticas Academy</li>
+    </ul>
+ </h3>
+
+ <h4>Personal Particulars
+    <ul>
+        <li>Birthday: March 1, 1996</li> 
+        <li>Birthplace: San Fernando, Pampanga</li>
+        <li>Age: 28 years old</li>
+        <li>Height: 5'11</li>
+        <li>Weight: 76 kgs</li>
+        <li>Civil Status: Married to Erin Red Roque</li>
+        <li>Religion: Roman Catholic</li>
+        <li>Languages Spoken: English, Tagalog</li>
+    </ul>
+ </h4>
+
+<h3>Work Experience</h3>
+<h4>Vendor Manager - Straker Translations 2022
+    <ul>
+        <li>Facilitate and maintain
+            relationships between the
+            organization and vendors/partners.</li>
+        <li>Create standards for the vendors.</li>
+        <li>Negotiating contracts for new
+            vendors</li>
+    </ul>
+</h4>
+
+<h4>Skills:
+    <ul>
+<li>Tech Savvy &starf;
+    &starf;
+    &starf;
+    &starf;
+    &starf;</li>
+<li>Strong Work Ethic
+    &starf;
+    &starf;
+    &starf;
+    &starf;
+    &starf;
+</li>
+<li>Team Player
+    &starf;
+    &starf;
+    &starf;
+    &starf;
+    &starf;
+</li>
+</ul>
+</h4>
+
+<h4>Others:</h4>
+<a href="About me.html">About me</a>
+<br>
+<a href="Contact.html">Contact</a>
+
+
+
+</body>
+</html>
